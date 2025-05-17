@@ -1,6 +1,6 @@
 flask
 xgboost==1.7.6
-scikit-learn
+scikit-learn==1.4.2
 joblib
 numpy
 pandas
